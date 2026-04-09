@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/Gestao.Fatura.Api/Gestao.Fatura.Api.csproj" />
+    <Project Path="src/Gestao.Fatura.Domain/Gestao.Fatura.Domain.csproj" />
   </Folder>
 </Solution>
