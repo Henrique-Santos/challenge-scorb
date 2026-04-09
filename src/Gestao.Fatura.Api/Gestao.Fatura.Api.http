@@ -1,0 +1,6 @@
+@Gestao.Fatura.Api_HostAddress = http://localhost:5084
+
+GET {{Gestao.Fatura.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
