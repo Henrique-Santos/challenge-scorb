@@ -2,5 +2,6 @@
   <Folder Name="/src/">
     <Project Path="src/Gestao.Fatura.Api/Gestao.Fatura.Api.csproj" />
     <Project Path="src/Gestao.Fatura.Domain/Gestao.Fatura.Domain.csproj" />
+    <Project Path="src/Gestao.Fatura.Infrastructure/Gestao.Fatura.Infrastructure.csproj" />
   </Folder>
 </Solution>
