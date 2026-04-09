@@ -6,6 +6,7 @@
     <Project Path="src/Gestao.Fatura.Infrastructure/Gestao.Fatura.Infrastructure.csproj" />
   </Folder>
   <Folder Name="/tests/">
+    <Project Path="tests/Gestao.Fatura.IntegrationTests/Gestao.Fatura.IntegrationTests.csproj" />
     <Project Path="tests/Gestao.Fatura.UnitTests/Gestao.Fatura.UnitTests.csproj" />
   </Folder>
 </Solution>
